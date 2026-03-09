@@ -173,4 +173,3 @@ Retaining existing customers is often more cost-effective than acquiring new one
 
 ---
 
-# Project Structure
